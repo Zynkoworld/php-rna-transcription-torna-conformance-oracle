@@ -1,0 +1,6 @@
+{"input": "", "expect": "", "raised": false, "task": "rna-transcription", "lang": "php"}
+{"input": "C", "expect": "G", "raised": false, "task": "rna-transcription", "lang": "php"}
+{"input": "G", "expect": "C", "raised": false, "task": "rna-transcription", "lang": "php"}
+{"input": "T", "expect": "A", "raised": false, "task": "rna-transcription", "lang": "php"}
+{"input": "A", "expect": "U", "raised": false, "task": "rna-transcription", "lang": "php"}
+{"input": "ACGTGGTCTTAA", "expect": "UGCACCAGAAUU", "raised": false, "task": "rna-transcription", "lang": "php"}
